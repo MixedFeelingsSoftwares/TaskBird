@@ -1,0 +1,6 @@
+D:\source\repos\TaskBird\TaskBird\bin\Debug\TaskBird.dll
+D:\source\repos\TaskBird\TaskBird\bin\Debug\TaskBird.pdb
+D:\source\repos\TaskBird\TaskBird\obj\Debug\TaskBird.csprojAssemblyReference.cache
+D:\source\repos\TaskBird\TaskBird\obj\Debug\TaskBird.csproj.CoreCompileInputs.cache
+D:\source\repos\TaskBird\TaskBird\obj\Debug\TaskBird.dll
+D:\source\repos\TaskBird\TaskBird\obj\Debug\TaskBird.pdb
